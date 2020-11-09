@@ -15,7 +15,7 @@ I've never been a blogger, or very public at touting my wares. My current journe
 
 ### This is how long I have been around
 
-I have been teaching myself to be a software developer since around 1997 and self-taught myself to a nice career developing open source ecommerce solutions for clients, for me and for the fun of it.
+I have been teaching myself to be a software developer since around 1996 and self-taught myself to a nice career developing open source ecommerce solutions for clients, for me and for the fun of it.
 
 I started around 1995~1996. Events transpired that led me to start learning [Perl](https://perl.org){:target="_blank"}. I really suck at Perl.  
 
@@ -23,7 +23,7 @@ While struggling with Perl, I started to build with [Minivend](https://github.co
 >Soon I will add pieces of the stack(s) used in between
 >the previous paragraph and the next paragraph right here
 
-I spent a lot of time contributing to various communities relating to open source proejcts in the form of donations, or code, or being helpful to the developers or the user base. Community support is where I learned how to do a deep dive into an application I was just learning. Adopting other users problems as my own puzzles to figure out.
+I spent a lot of time contributing to various communities relating to open source projects in the form of donations, or code, or being helpful to the developers or the user base. Community support is where I learned how to do a deep dive into an application I was just learning. Adopting other users problems as my own puzzles to figure out.
 
 The scene in those early days was a lot of fun. 100 hour workweeks were nothing and I clocked that on a regular basis. It did not take me long to figure out that my strong learning skills were propelling me towards a solid career down a particular path. I enjoyed that path, the skills I learned remain with me. The lessons I learned were, in most cases, enjoyable, informative and profitable in the learning sense, not always in a monitary sense. At some point soon I will list the various bits and pieces I have made extensive use of over the years.
 
